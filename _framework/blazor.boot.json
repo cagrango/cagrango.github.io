@@ -1,0 +1,47 @@
+{
+  "cacheBootResources": true,
+  "config": [ ],
+  "debugBuild": false,
+  "entryAssembly": "CorePos.Blazor",
+  "linkerEnabled": true,
+  "resources": {
+    "assembly": {
+      "Blazored.LocalStorage.dll": "sha256-1TDqrdFNvXkVgdnRzxB9Nr2VvMjHeQgGBsLkMsChZzo=",
+      "CorePos.Blazor.dll": "sha256-H5ylp04dOShHVlTlzgIX5Pg9agGEb2rxjqL6s8oyxjo=",
+      "CorePOSApi.Model.dll": "sha256-eCQv03fUoqu+i6nLd+Ad3qC53oFzB3FRVlCVL9w7VrU=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-ASglLkK\/mk9DgDkfM8qDt5x10tZlb5UbmKPSc5+pb+c=",
+      "Microsoft.AspNetCore.Components.Forms.dll": "sha256-0VdNFVA0Wr0VR+y9Oj9xe8tFUsdsLh1pipTBg8KAyzM=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-SJvy2hbcsUneD7\/\/XqQUJ4uKf4Ss7eUzbUriReXfPNs=",
+      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-A5aHx+vrFZhpfRgVSAx1DEz8sSjdNwbNdJfw7YEak2g=",
+      "Microsoft.Bcl.AsyncInterfaces.dll": "sha256-jzHgXWAvWMkKIGFjZoT84tbe72E+H7CvTr\/Dryh4QPs=",
+      "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-MO82KP+zoZndFxgdVddq8g9lowa9Uqk2ZCMKK23fz2s=",
+      "Microsoft.Extensions.Configuration.dll": "sha256-y1hiFmjOUtz7oyZ3d0Den1k78XvUbdzcsz7D8yF3xiE=",
+      "Microsoft.Extensions.Configuration.Json.dll": "sha256-HRNetnzL0OXrcpGf5fzrqyyEOQuE0BNge7M+6rZpvZ0=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-jLd0BTi54WpZdWc+u2Q+CjHzr4OzYeJnb+Jyl4\/8gGA=",
+      "Microsoft.Extensions.DependencyInjection.dll": "sha256-sMRdCa94wOQe4Vm4khQxcTT1I2M8lYQexZq16tmunJg=",
+      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-ohvGbdNXGaGJJ6p4bigsz0Y87gkMIpEv1eclGQ4rVfE=",
+      "Microsoft.Extensions.Logging.dll": "sha256-UMxtwBeF4D8FHo6VRKe0mN4Sxlyq\/geraVJ08ZZvYc0=",
+      "Microsoft.Extensions.Options.dll": "sha256-ovxKwbrdCyv\/BO8Oc7WHMynWbLGVqpX9K+AryvYiFD8=",
+      "Microsoft.Extensions.Primitives.dll": "sha256-+bURBzFTAvqRhuTYf9JNtB91rIM6h\/L8cKRn3ofj\/+Q=",
+      "Microsoft.JSInterop.dll": "sha256-+WXZVUWZF5d9+6FNZp+\/HYp7uazwItpNb6v0bMWxNI8=",
+      "Microsoft.JSInterop.WebAssembly.dll": "sha256-hxnixznereufPygwGyBvYxKeSx2MhvCuWff57xiHJtI=",
+      "mscorlib.dll": "sha256-oO9od9YqhhLAde+oM1D1WPTYs5hgSAtbWyHJReyuAq4=",
+      "System.ComponentModel.DataAnnotations.dll": "sha256-LCTTdyZX1lZJElyd\/0ncub1hkY3SO61u7AoY3RWIhSc=",
+      "System.Core.dll": "sha256-gI9TBvpN\/AvPSWZlhxu90193Uw332pfh17jmgNcPYIM=",
+      "System.dll": "sha256-8rjgSVZFgr0qla1ywathXbYYiZU2NyiNnB59ogOyxAY=",
+      "System.Net.Http.dll": "sha256-WBsDBVoYFGbLXvCV\/E5egXE\/shAMA0puShSFpPflGCc=",
+      "System.Net.Http.WebAssemblyHttpHandler.dll": "sha256-JhWLIPRgsqS48m0MJM3WAQvCYVUIQuVMPR0KLmlwvKE=",
+      "System.Runtime.CompilerServices.Unsafe.dll": "sha256-phJ4A94bTT1bR3ThznEm4kciFHcay0+vBcGAcmh4qDY=",
+      "System.Text.Encodings.Web.dll": "sha256-FdHu\/U7rHqj683ic29yTPF9tDcaMd7yzjXr5XehhhX0=",
+      "System.Text.Json.dll": "sha256-EGjSmWLqh0p8mMF1JG\/kFm8dbcz5yYPPSqWu26ijPfI=",
+      "WebAssembly.Bindings.dll": "sha256-sF9FNZpKppA9D65y1oUYDAr\/QmL4sDGiVZMhWmJePPM="
+    },
+    "pdb": null,
+    "runtime": {
+      "dotnet.3.2.0.js": "sha256-h9Pz6Ksc5f3MK6d1g9B5GhcvXC3nE+J4fd7axkDcLa0=",
+      "dotnet.timezones.dat": "sha256-3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=",
+      "dotnet.wasm": "sha256-yFn24IF1ic1G+383aPTn7D4+F7sUUrcYHB7t\/dw0ycM="
+    },
+    "satelliteResources": null
+  }
+}
